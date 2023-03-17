@@ -79,16 +79,5 @@ class MainActivity : AppCompatActivity() {
         campoNota1.setText("");
         campoNota2.setText("");
         campoNota3.setText("");
-
-        /*else if (nota1Txt.isEmpty()){
-            campoNota1.error = "Nota 1 obligatorio"
-        } else if (nota2Txt.isEmpty()){
-            campoNota2.error = "Nota 2 obligatorio"
-        } else if (nota3Txt.isEmpty()){
-            campoNota3.error = "Nota 3 obligatorio"
-        }*/
-
-        // mensajeResult.text="Hola $nombre usted $result"
-        //Toast.makeText(this, "Hola $nombre usted $result", Toast.LENGTH_LONG).show()
     }
 }
